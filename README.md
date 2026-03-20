@@ -113,4 +113,7 @@ Git • GitHub • VS Code • Eclipse
   <a href="mailto:shivakumarkallepalli@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
+  <a href="https://github.com/KallepalliShivaKumar">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
 </p>
