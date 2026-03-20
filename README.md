@@ -29,8 +29,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  ## ⚡ Tech Stack
-
+  
 ### 💻 Programming
 Java • Python • JavaScript • SQL  
 
