@@ -1,136 +1,100 @@
-<h1 align="center">Hi 👋, I'm Shiva Kumar Kallepalli</h1>
+<h1 align="center">Hey 👋, I'm Shiva Kumar Kallepalli</h1>
 
-<h3 align="center">🚀 Java Full Stack Developer | Building Scalable Applications</h3>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=KallepalliShivaKumar">
-    <img src="https://komarev.com/ghpvc/?username=KallepalliShivaKumar&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
----
-
-## 💫 About Me
-
-✨ Passionate Full Stack Developer focused on building real-world applications  
-🚀 Strong expertise in Java, Spring Boot, and backend systems  
-🎯 Currently seeking opportunities to grow as a Software Developer  
-🌱 Continuously learning and improving my development skills  
-
----
-
-## 🌐 Connect With Me
+<h3 align="center">🚀 Java Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/shiva-kumar-kallepalli">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:shivakumarkallepalli@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://github.com/KallepalliShivaKumar">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🌱 B.Tech CSE (AIML) Student (2021–2025)
+- 💡 Passionate about Full Stack Development
+- 🔥 Strong in Java, Spring Boot & Backend Development
+- 🎯 Preparing for placements & product-based companies
+- ⚡ Love building real-world applications
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,bootstrap,mysql,git,github,vscode,eclipse" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,spring,mysql,git,github,vscode,eclipse"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🧩 Smart Complaint Management System
-- 🔹 Java, Spring Boot, MySQL  
-- 🔹 Role-based authentication system  
-- 🔹 Complaint tracking & REST APIs  
-
-</td>
-
-<td width="50%">
-
-### 🎉 Fest Management Website
-- 🔹 HTML, CSS, Bootstrap, JS  
-- 🔹 Event registration system  
-- 🔹 User-friendly interface  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 Sentiment Analysis
-- 🔹 Python, Machine Learning  
-- 🔹 Naive Bayes classification  
-- 🔹 NLP using NLTK  
-
-</td>
-
-<td width="50%">
-
-### 📊 Power BI Dashboard
-- 🔹 Data visualization  
-- 🔹 Business insights  
-- 🔹 Interactive reports  
-
-</td>
-</tr>
-</table>
+### 🔹 Smart Complaint Management System
+✔ Java, Spring Boot, MySQL  
+✔ Role-based system with authentication  
+✔ REST APIs & complaint tracking  
 
 ---
 
-## 📊 GitHub Analytics
+### 🔹 College Fest Management Website
+✔ HTML, CSS, Bootstrap, JS  
+✔ Event registration & management system  
+
+---
+
+### 🔹 Sentiment Analysis (ML Project)
+✔ Python, Naive Bayes  
+✔ NLP using NLTK & Scikit-learn  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KallepalliShivaKumar&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallepalliShivaKumar&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KallepalliShivaKumar&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallepalliShivaKumar&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KallepalliShivaKumar&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=KallepalliShivaKumar&theme=radical"/>
 </p>
 
 ---
 
-## 💼 Experience
+## 🧠 DSA Progress
 
-🧑‍💻 Salesforce Developer Virtual Internship  
-- Developed apps using Apex & Lightning  
-- Worked on automation & API integrations  
-
----
-
-## 🎓 Education
-
-🎓 B.Tech CSE (AIML) – 7.55 CGPA  
-🏫 Intermediate – 77.6%  
-🏫 SSC – 8.8 CGPA  
+- ✅ Practicing Data Structures & Algorithms
+- 🎯 Target: 200+ problems
 
 ---
 
-## 🏆 Certifications
+## 📜 Certifications
 
 ✔ AWS Cloud  
 ✔ MERN Stack Development  
-✔ Salesforce Developer Internship  
+✔ Salesforce Internship  
 ✔ Cambridge English B2  
 
 ---
 
+## 🌐 Connect with Me
+
 <p align="center">
-  💻 “Code. Learn. Build. Repeat.” 🚀
+  <a href="https://linkedin.com/in/shiva-kumar-kallepalli">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="mailto:shivakumarkallepalli@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
 </p>
