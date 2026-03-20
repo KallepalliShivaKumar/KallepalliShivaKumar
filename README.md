@@ -80,14 +80,6 @@ Git • GitHub • VS Code • Eclipse
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KallepalliShivaKumar&theme=radical"/>
-</p>
-
----
-
 ## 🧠 DSA Progress
 
 - ✅ Practicing Data Structures & Algorithms
