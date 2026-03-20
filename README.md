@@ -1,16 +1,102 @@
-## Hi there 👋
+# Hey 👋, I'm Shiva Kumar Kallepalli
 
-<!--
-**KallepalliShivaKumar/KallepalliShivaKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Full Stack Developer | Spring Boot • React • SQL  
+💡 Passionate about building scalable applications & solving real-world problems  
 
-Here are some ideas to get you started:
+📍 Hyderabad, Telangana  
+📧 shivakumarkallepalli@gmail.com  
+📱 +91 9959161130  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [LinkedIn](https://linkedin.com/in/shiva-kumar-kallepalli)
+
+---
+
+## 🧑‍💻 About Me
+🌱 B.Tech CSE (AIML) Student (2021–2025)  
+🎯 Aspiring Software Developer  
+💡 Strong interest in Full Stack Development & Backend Systems  
+🔥 Hands-on experience with Java, Spring Boot & REST APIs  
+⚡ Always learning & improving problem-solving skills  
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Programming
+Java • Python • JavaScript • SQL  
+
+### 🌐 Frontend
+HTML • CSS • Bootstrap  
+
+### 🔧 Backend
+Spring Boot • REST APIs  
+
+### 🗄 Database
+MySQL • Oracle  
+
+### 🛠 Tools
+Git • GitHub • VS Code • Eclipse  
+
+---
+
+## 🚀 Projects
+
+### 🔹 Smart Complaint Management System
+👉 Java, Spring Boot, MySQL  
+- Built a role-based system for managing student complaints  
+- Implemented authentication & complaint tracking  
+- Developed REST APIs for smooth communication  
+
+---
+
+### 🔹 College Fest Management Website
+👉 HTML, CSS, Bootstrap, JavaScript, SQL, Spring Boot  
+- Designed a platform for event registration & participation  
+- Simplified fest organization for students and admins  
+
+---
+
+### 🔹 Sentiment Analysis for Restaurant Reviews
+👉 Python, Machine Learning  
+- Built a Naive Bayes model to classify reviews  
+- Used NLTK & Scikit-learn for text processing  
+
+---
+
+## 💼 Experience
+
+### 🔹 Salesforce Developer Virtual Internship
+- Worked with Apex, Visualforce & Lightning  
+- Built workflows & automation  
+- Integrated APIs for scalable applications  
+
+---
+
+## 🎓 Education
+🎓 B.Tech (CSE - AIML) – 7.55 CGPA  
+🏫 Intermediate – 77.6%  
+🏫 SSC – 8.8 CGPA  
+
+---
+
+## 📜 Certifications
+✔ AWS Academy Cloud  
+✔ MERN Stack Development  
+✔ Salesforce Developer Internship  
+✔ Cambridge English B2  
+
+---
+
+## 📊 GitHub Stats
+![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=KallepalliShivaKumar&show_icons=true)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=KallepalliShivaKumar)
+
+---
+
+## 🌐 Connect with Me
+📌 LinkedIn: https://linkedin.com/in/shiva-kumar-kallepalli  
+📌 Email: shivakumarkallepalli@gmail.com  
