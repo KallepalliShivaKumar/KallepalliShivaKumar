@@ -29,6 +29,23 @@
 ## ⚡ Tech Stack
 
 <p align="center">
+  ## ⚡ Tech Stack
+
+### 💻 Programming
+Java • Python • JavaScript • SQL  
+
+### 🌐 Frontend
+HTML • CSS • Bootstrap  
+
+### 🔧 Backend
+Spring Boot • REST APIs  
+
+### 🗄 Database
+MySQL • Oracle  
+
+### 🛠 Tools
+Git • GitHub • VS Code • Eclipse  
+
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,spring,mysql,git,github,vscode,eclipse"/>
 </p>
 
