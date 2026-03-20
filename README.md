@@ -1,5 +1,5 @@
 # Hey 👋, I'm Shiva Kumar Kallepalli
-
+![Profile Views](https://komarev.com/ghpvc/?username=KallepalliShivaKumar&color=blue)
 🚀 Java Full Stack Developer | Spring Boot • React • SQL  
 💡 Passionate about building scalable applications & solving real-world problems  
 
@@ -37,7 +37,12 @@ MySQL • Oracle
 ### 🛠 Tools
 Git • GitHub • VS Code • Eclipse  
 
+
 ---
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
 ## 🚀 Projects
 
