@@ -71,14 +71,6 @@ Git • GitHub • VS Code • Eclipse
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallepalliShivaKumar&layout=compact&theme=radical"/>
-</p>
-
----
-
 ## 🧠 DSA Progress
 
 - ✅ Practicing Data Structures & Algorithms
