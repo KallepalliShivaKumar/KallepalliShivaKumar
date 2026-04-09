@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Shiva Kumar Kallepalli</h1>
+<h1 align="center">Hey , I'm Shiva Kumar Kallepalli</h1>
 
 <h3 align="center">🚀 Java Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
