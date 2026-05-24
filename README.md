@@ -9,13 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shivakumarkallepalli@gmail.com" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Let's%20Connect-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
-    alt="Let's Connect"
-  />
-</a>
-
   <a href="https://github.com/KallepalliShivaKumar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
