@@ -1,22 +1,26 @@
-<h1 align="center">Hey , I'm Shiva Kumar Kallepalli</h1>
+<h1 align="center">Hey 👋, I'm Shiva Kumar Kallepalli</h1>
 
-<h3 align="center">🚀 Java Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">
+🚀 Java Full Stack Developer | Problem Solver | Tech Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shiva-kumar-kallepalli">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://linkedin.com/in/shiva-kumar-kallepalli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:shivakumarkallepalli@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+
+  <a href="mailto:shivakumarkallepalli@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/KallepalliShivaKumar">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+
+  <a href="https://github.com/KallepalliShivaKumar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
 - 🌱 B.Tech CSE (AIML) Student (2021–2025)
 - 💡 Passionate about Full Stack Development
@@ -26,77 +30,108 @@
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
-  
-### 💻 Programming
-Java • Python • JavaScript • SQL  
 
-### 🌐 Frontend
-HTML • CSS • Bootstrap  
+## 💻 Programming
+Java • Python • JavaScript • SQL
 
-### 🔧 Backend
-Spring Boot • REST APIs  
+## 🌐 Frontend
+HTML • CSS • Bootstrap
 
-### 🗄 Database
-MySQL • Oracle  
+## 🔧 Backend
+Spring Boot • REST APIs
 
-### 🛠 Tools
-Git • GitHub • VS Code • Eclipse  
+## 🗄 Database
+MySQL • Oracle
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,spring,mysql,git,github,vscode,eclipse"/>
+## 🛠 Tools
+Git • GitHub • VS Code • Eclipse
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,spring,mysql,git,github,vscode,eclipse" />
+
 </p>
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-### 🔹 Smart Complaint Management System
+## 🔹 Smart Complaint Management System
 ✔ Java, Spring Boot, MySQL  
-✔ Role-based system with authentication  
-✔ REST APIs & complaint tracking  
+✔ Role-based authentication system  
+✔ REST APIs & complaint tracking
 
 ---
 
-### 🔹 College Fest Management Website
-✔ HTML, CSS, Bootstrap, JS  
-✔ Event registration & management system  
+## 🔹 College Fest Management Website
+✔ HTML, CSS, Bootstrap, JavaScript  
+✔ Event registration & management system
 
 ---
 
-### 🔹 Sentiment Analysis (ML Project)
+## 🔹 Sentiment Analysis (ML Project)
 ✔ Python, Naive Bayes  
-✔ NLP using NLTK & Scikit-learn  
+✔ NLP using NLTK & Scikit-learn
 
 ---
 
-## 🧠 DSA Progress
+# 🧠 DSA Progress
 
 - ✅ Practicing Data Structures & Algorithms
 - 🎯 Target: 200+ problems
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 ✔ AWS Cloud  
 ✔ MERN Stack Development  
 ✔ Salesforce Internship  
-✔ Cambridge English B2  
+✔ Cambridge English B2
 
 ---
 
-## 🌐 Connect with Me
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/in/shiva-kumar-kallepalli">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KallepalliShivaKumar&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallepalliShivaKumar&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KallepalliShivaKumar&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+  <a href="https://linkedin.com/in/shiva-kumar-kallepalli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:shivakumarkallepalli@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+
+  <a href="mailto:shivakumarkallepalli@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/KallepalliShivaKumar">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+
+  <a href="https://github.com/KallepalliShivaKumar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ From <b>Shiva Kumar Kallepalli</b>
 </p>
